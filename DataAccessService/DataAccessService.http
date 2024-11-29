@@ -1,0 +1,6 @@
+@DataAccessService_HostAddress = http://localhost:5261
+
+GET {{DataAccessService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
